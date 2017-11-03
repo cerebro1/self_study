@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 
-func add( num1 int, num2 int) int {
+func add( num1, num2 int) int {
 	num3 := num1 + num2
 	return num3
 }
