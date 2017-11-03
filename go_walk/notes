@@ -1,0 +1,16 @@
+%v : Returns value in default format
+%T : returns the data type of variable
+%g : Returns large exponent floating point values
+%t : returns boolean
+%s : string
+%d : int
+%p : pointer
+%f : decimal point but no exponent
+%9.2f  width 9, precision 2 
+===============================================
+The zero value is:
+
+0 : numeric types
+false : boolean type
+"" : strings
+===============================================
